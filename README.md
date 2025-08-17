@@ -20,7 +20,11 @@ A **console-based Supermarket Billing System** written in **C++**, showcasing co
   - Enables quick searching of products to calculate bill totals.
 
 ---
+## Screen Shots 
+<img width="1146" height="985" alt="image" src="https://github.com/user-attachments/assets/7a115af4-bc71-42d3-babb-937e6f6868fb" />
+<img width="1143" height="947" alt="image" src="https://github.com/user-attachments/assets/6e1d0a51-cbed-4a88-baaa-50191bf55922" />
 
+```
 ##  Getting Started
 
 1. **Clone the repository**  
